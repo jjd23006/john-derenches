@@ -18,6 +18,6 @@ I study physics with an astrophysics minor, with experience in advanced problem 
 - **Instrumentation:** timing equipment, radiation detection, optics, oscillators, particle detection
 
 #### Courses
-- Classical Mechancis • Electromagnetism • Quantum Physics • Math Methods
+- Classical Mechanics • Electromagnetism • Quantum Physics • Mathematical Methods
 - Advanced Physics Lab • Computational Physics
 - Calculus I-III • Differential Equations • Linear Algebra
