@@ -3,8 +3,8 @@ title: Professional Experience
 date: 2025-09-30
 ---
 
-### Information Technology Services - Technology Support Center (UConn)
-## Audio-Visual Technician (Support Specialist) - Classroom technology support
+#### Information Technology Services - Technology Support Center (UConn)
+### Audio-Visual Technician (Support Specialist) - Classroom technology support
 _Previously_: call center and front desk (phone & in person support)
 
 My role is to identify, diagnose, and fix AV related issues in classrooms with minimal interruptions to teacher instructions. 
