@@ -1,5 +1,5 @@
 ---
-title: Welcome to my blog
+title: Home
 ---
 
-This is my page
+Physics & Astrophysics student & Information Technology Services (ITS) -- UConn
